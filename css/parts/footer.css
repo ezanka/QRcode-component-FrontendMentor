@@ -1,0 +1,16 @@
+footer {
+    position: absolute;
+    bottom: 0.5em;
+
+    font-size: 0.9em;
+
+    color: var(--Dark_blue);
+}
+
+footer a {
+    color: var(--Dark_blue);
+}
+
+footer a:hover {
+    color: var(--White);
+}

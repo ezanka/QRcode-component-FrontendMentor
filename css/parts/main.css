@@ -1,0 +1,34 @@
+main {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+
+    background-color: var(--White);
+    border-radius: 1em;
+
+    padding: 1.25em;
+}
+
+div img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 1em;
+}
+
+h1 {
+    padding: 1em;
+
+    font-weight: var(--Weights_bold);
+    font-size: 1.5em;
+
+    color: var(--Dark_blue);
+}
+
+p {
+    padding: 0 1.6em 1.25em 1.6em;
+    color: var(--Grayish_blue);
+}
+
+
+
